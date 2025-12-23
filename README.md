@@ -44,7 +44,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system that enables inte
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/document-intelligence-rag.git
+git clone https://github.com/Lokeshreddy0257/document-intelligence-rag.git
 cd document-intelligence-rag
 ```
 
