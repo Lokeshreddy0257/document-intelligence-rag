@@ -11,6 +11,9 @@ A production-ready Retrieval-Augmented Generation (RAG) system that enables inte
 - **Conversation Memory**: Maintains context across multiple queries
 - **FastAPI Backend**: High-performance REST API for scalable deployment
 - **Streamlit UI**: Interactive web interface for easy document upload and querying
+- **📊 Analytics Dashboard**: Real-time metrics and performance tracking
+- **📈 Interactive Visualizations**: Charts, graphs, and word clouds for insights
+- **⚡ Performance Monitoring**: Response time tracking and optimization
 
 ## 🏗️ Architecture
 
@@ -32,6 +35,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system that enables inte
 - **OpenAI GPT-4**: Language model for response generation
 - **FastAPI**: RESTful API backend
 - **Streamlit**: Interactive web UI
+- **Plotly & Matplotlib**: Data visualization and analytics
 - **Python 3.9+**: Core programming language
 
 ## 📦 Installation
@@ -148,6 +152,13 @@ TOP_K = 4
 - RESTful endpoints
 - Request validation
 - Error handling
+
+### 5. Visualization Module (`visualizations.py`)
+- Interactive charts and graphs
+- Performance analytics
+- Usage pattern analysis
+
+See [VISUALIZATIONS.md](VISUALIZATIONS.md) for detailed visualization features.
 
 ## 📊 Performance
 
